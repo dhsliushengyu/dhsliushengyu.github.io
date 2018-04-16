@@ -1,8 +1,6 @@
-body {
-  background-image: url(http://images.all-free-download.com/images/graphiclarge/dandelion_and_green_nature_background_vector_581794.jpg);
-  background-color: #cccccc;
+body {background-image: url(http://images.all-free-download.com/images/graphiclarge/dandelion_and_green_nature_background_vector_581794.jpg);
+  background-color: #66ccff;
 }
 h1 {
-  color: #41292C;
-  font-family: 'Covered By Your Grace', sans-serif;
+  color: teal; font-family: 'Covered By Your Grace', sans-serif;
 }
